@@ -1,3 +1,3 @@
 # nayana rajeev
-mca
-sngce
+mca-sngce
+bca-amrita
